@@ -297,7 +297,7 @@ function initializeTerminal() {
     whoami: {
       description: "Display user information",
       execute: () => `Youssef Sadek
-CS Student @NJIT | Cybersecurity Enthusiast
+IT Student @NJIT | Cybersecurity Enthusiast
 ex Cybersecurity & Technical Operations Intern@David Zwirner`,
     },
 
@@ -360,16 +360,17 @@ Tools:        Git ████████ 85%
       execute: () => `Education:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎓 New Jersey Institute of Technology
-   Computer Science, B.S.
-   Expected Graduation: Dec 2026
+   Information Technology, B.S.
+   Expected Graduation: Aug 2026
    
 📚 Relevant Coursework:
-   • Cryptography
-   • Operating Systems  
-   • Computer Networks
    • Network Security
-   • Intensive Programming in Linux
-   • Data Structures & Algorithms`,
+   • Cryptography
+   • Operating Systems
+   • Ethical Hacking
+   • Linux
+   • System Administration
+   • System Security`,
     },
 
     contact: {
@@ -381,7 +382,7 @@ Tools:        Git ████████ 85%
 🐱 GitHub:   github.com/Youssefciz
 
 Available for cybersecurity internships and 
-full-time opportunities starting Dec 2026.`,
+full-time opportunities starting Aug 2026.`,
     },
 
     scan: {
@@ -515,9 +516,9 @@ drwxr-xr-x  education/
             `📄 Resume Summary:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Name: Youssef Sadek
-Major: Computer Science (Cybersecurity Focus)
+Major: Information Technology (Cybersecurity Focus)
 School: New Jersey Institute of Technology
-Expected Graduation: Dec 2026
+Expected Graduation: Aug 2026
 
 Experience:
 • Security Intern @ David Zwirner
